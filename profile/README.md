@@ -1,23 +1,18 @@
-![Airbotics logo](https://github.com/Airbotics/.github/blob/main/profile/airbotics-banner.png)
+![Airbotics logo](https://github.com/Airbotics/.github/blob/main/profile/hero.png)
 
 <br />
 
 ### 👋 Hey, we're Airbotics
 
-We're building a product for deploying software over-the-air on top of the [Uptane](https://uptane.github.io/) specification. You can use our hosted version at [airbotics.io](https://airbotics.io) or self-host it on your own infrastructure.
+Airbotics is an open-source software deployment platform for robotics.
 
-
-### 👀 At a glance
-
-- We're in Public Alpha.
-
-- Licensed under AGPL V3.
-
-
+It is a self-hosted, secure, software deployment platform built on [Uptane](https://uptane.github.io/) designed to work for any fleet size and integrate with the hardware and software used in robotics.
 
 ### 👉 Links
 
 - [Website](https://airbotics.io)
+
+- [Docs](https://docs.airbotics.io)
 
 - [Twitter](https://twitter.com/Airboticsio)
 
